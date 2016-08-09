@@ -1,4 +1,4 @@
-###angrybird愤怒的小鸟
+#angrybird愤怒的小鸟
 
 一个js游戏的重力感应demo
 
@@ -9,6 +9,7 @@
 2. 开发技术
 
 游戏框架：lufylegend
+
 运行平台：mobile
 
 
